@@ -39,7 +39,7 @@ cd nome-do-repo
 pip install -r requirements.txt
 
 3. Execute o app:
-streamlit run app.py
+streamlit run main.py
 
 ## 📊 Exemplo de uso
 
